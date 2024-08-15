@@ -3,9 +3,9 @@
 This project aims to visualize the distribution of mean population values for the top 10 countries over the period from 1990 to 2023. The task involves data cleaning, sorting, and plotting a bar chart to represent the mean population of each country using Python.
 ## Data Source
 https://data.worldbank.org/indicator/SP.POP.TOTL 
-##Languages Used 
+## Languages Used 
 Python
-##Python  Libraries Used
+## Python  Libraries Used
 Pandas
 Matplotilib
 Seaborn
