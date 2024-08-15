@@ -29,7 +29,7 @@ colors = sns.color_palette("husl", len(a))  # Using a color palette from seaborn
 plt.bar(b, a, color=colors)
 
 # Add titles and labels
-plt.title("Top 10 Countries by Mean Population (1990-2023)", fontsize=16)
+plt.title("Top 10 Countries by Mean Population (1960-2023)", fontsize=16)
 plt.xlabel("Country Name", fontsize=10)
 plt.ylabel("Mean Population", fontsize=10)
 plt.xticks(rotation=45, ha="right")
