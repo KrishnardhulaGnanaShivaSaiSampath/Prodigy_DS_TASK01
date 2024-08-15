@@ -7,8 +7,8 @@ https://data.worldbank.org/indicator/SP.POP.TOTL
 Python
 ## Python  Libraries Used
 Pandas
-\Matplotilib
-Seaborn
+,Matplotilib
+and Seaborn
 ## Tools Used
 Visual Studio Code
-MS Excel
+and MS Excel
